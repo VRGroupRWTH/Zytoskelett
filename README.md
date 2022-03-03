@@ -9,7 +9,7 @@
 Keratin intermediate filaments are protein threads that are located inside cells of epithelial tissues such as skin and are responsible for the mechanical stability of these tissues.
 
 This project allows you to view these filaments in a 3-Dimensional space, either in VR or on your Desktop and provides you with the tool to classify and color them to your specifications.
-it was created in cooperation with Prof. Dr. rer. nat. Reinhard Windoffer from the [Institute of Molecular and Cellular Anatomy of the RWTH Aachen University Hospital][KRN] for the corresponding [Paper][PPR].
+It was created in cooperation with Prof. Dr. rer. nat. Reinhard Windoffer from the [Institute of Molecular and Cellular Anatomy of the RWTH Aachen University Hospital][KRN] for the corresponding paper [Quantitative mapping of keratin networks in 3D][PPR].
 
 ## Installation
 
